@@ -1,4 +1,4 @@
-# GA4_Website_Performance
+# Google Analytics Website Performance Analysis
 
 The purpose of this project is to use Google Analytics to assess and demonstrate an e-commerce website's potential for growth in terms of website acquisition, user engagement, and conversion performance. Data from July 20 to August 16 is used.
 
