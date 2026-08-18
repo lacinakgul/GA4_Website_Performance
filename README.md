@@ -28,5 +28,52 @@ The /shop/new attracts significantly less traffic than the homepage but demonstr
 ![Beta](landing_page_beta.png)
 
 
+# Purchase Journey
+
+![Purchase journey](purchase_journey.png)
+
+Mobile is the primary traffic source by device, but desktop users account for the vast majority of purchases, indicating a significant mobile conversion opportunity.
+
+# Checkout Journey
+
+![Checkout journey](checkout_journey.png)
+
+Mobile checkout-to-purchase is only 21.9%, whereas desktop checkout-to-purchase is 54.3%. In other words, compared to desktop users, mobile users have a far lower purchase completion rate once they begin the checkout process. 
+
+It is acknowledged that the prior analysis revealed a low general purchase conversion rate on mobile devices. This analysis demonstrates that the issue persists at the checkout level as well. 
+
+
+# Funnel Exploration
+
+![Funnel](country_funnel.png)
+
+In addition to having the most traffic, the US has a very high checkout success rate compare to India and Japan. 
+
+Only four of the 108 consumers in India complete the checkout process. This indicates that there are a significant number of drop-offs at the journey's checkout stage. 
+
+
+# Key Findings
+
+- Email demonstrates that high-intent traffic can achieve stronger engagement. Improving SEO and GEO visibility could help attract more high-intent users through organic and emerging search channels, while optimizing the direct landing experience could improve engagement among existing Direct visitors.
+
+- Although it generated fewer engaged sessions, Paid Search outperformed Organic Search in terms of engagement rate, indicating a chance to boost qualified traffic through improved audience segmentation and greater alignment between search intent, ad messaging, and landing pages.
+
+- Purchase journey of mobile users shows drop-offs in early stages. The problem might be resolved by giving mobile UX optimisation top priority by examining product discovery, navigation, page speed, and checkout usability to lower drop-off across the mobile purchase journey.
+
+- Mobile users generated 67.47% of sessions but only 8.55% of purchases during the checkout stage, indicating a significant mobile conversion gap throughout the purchase process. The payment section during the checkout stage is the main source of the problem. Improving mobile checkout usability, particularly around payment entry, could help reduce friction and increase mobile purchase conversion.
+
+- Investigating checkout friction in India, such as payment methods, pricing, shipping costs, or localisation, could assist resolve problems during the purchase process. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
